@@ -1,5 +1,5 @@
 # Hare or Rabbit?
-##Lebre ou coelho?
+## Lebre ou coelho?
 
 Este projeto utiliza redes neurais para identificar se o animal dado é uma lebre ou um coelho.
 
